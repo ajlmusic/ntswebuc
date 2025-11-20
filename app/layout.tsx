@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description:
     'Nehetek Technology Solutions, LLC – Cloud services, IT management consulting, application design & development, and system integrations.',
   icons: {
-    icon: '/favicon.ico', // or '/favicon.png'
+    icon: '/favicon.png', // or '/favicon.png'/
   },
 }
 
